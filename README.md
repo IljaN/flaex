@@ -1,3 +1,5 @@
+Continued/Maintained here: https://github.com/owncloud/flaex
+
 # flaex
 Extract flags from the ocis project-components to create documentation.
 
